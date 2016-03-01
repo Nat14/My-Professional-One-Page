@@ -19,5 +19,4 @@ $(window).scroll(function( about ) {
         $(this).addClass("expandUp");
       }
     });
-  });
-
+  });$('#resume-skills').click(function() {		$(this).addClass("pullUp");	});

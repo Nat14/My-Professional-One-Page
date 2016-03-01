@@ -5,3 +5,7 @@
   border-radius: 50%;
   border: 20px solid #DAEDE2;
 }
+
+#resume-skills {
+  visibility: hidden;
+}
