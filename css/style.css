@@ -633,10 +633,24 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
   margin-top: 20px;
   margin-bottom: 20px;
   color: white;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 25px;
-  text-align: center;
+  text-align: left;
 }
+
+.resume-part {
+  text-align: center;
+  font-size: 18px;
+  color: white;
+}
+
+.resume-skills {
+  text-align: center;
+  font-size: 15px;
+  color: white;
+  list-style-type: none;
+}
+
 .sepreater {
   display: block;
   width: 100%;
@@ -1328,7 +1342,7 @@ font-size: 13px;
 }
 
 .service-parlex {
-  padding-top: 0px;
+  padding-top: 10px;
   background-image: url('https://lh3.googleusercontent.com/HVJB2-_2Zdlfp5YDU_XwHNqGtjRft6bj9dtQzFBgnxP9AadeZC3sbzKWUZ0cAqH0oUAIC_Ztoy55pw=w1098-h736-no');
 
   background-size: cover;
