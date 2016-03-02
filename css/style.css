@@ -271,10 +271,7 @@ a:active {
 }
 
 .sp-content {
-    /*background: url(../images/slider/back.png) no-repeat scroll 0 0;*/
-    background: url(../images/slider/test2.jpg) no-repeat scroll 0 0;
-
-
+    background: url(../images/slider/slide-back.jpg) no-repeat scroll 0 0;
     position: relative;
     width: 100%;
 
@@ -285,9 +282,7 @@ a:active {
 }
 
 .sp-parallax-bg {
-    /*background: url(../images/slider/cloud.png) repeat-x scroll 0 0;*/
-    background: url(../images/slider/testcloud.png) repeat-x scroll 0 0;
-
+    background: url(../images/slider/cloud-name.png) repeat-x scroll 0 0;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -296,10 +291,7 @@ a:active {
     left: 0;
     width: 100%;
     height: 100%;
-
-    /*background-color: rgba(12, 19, 29, 0.44);*/
     background-color: rgba(246,247,146,0.8);
-
     overflow: hidden;
 }
 
